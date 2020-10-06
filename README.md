@@ -3,4 +3,4 @@ Index for my undergraduate thesis project applications. This repository was crea
 
 ### Initial
 ##### Tweepy demo: Understanding the Tweepy API
-* [Tweepy Boilerplate in Python for mining Tweets]()
+* [Tweepy Boilerplate in Python for mining Tweets](https://github.com/jfmendez11/tweepy_demo)
