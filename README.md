@@ -1,4 +1,4 @@
-# Thesis-Index
+# Thesis Index
 Index for my undergraduate thesis project applications. This repository was created to have an index for all the different repos in my undegraduate thesis projects.
 
 ### Initial
