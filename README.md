@@ -4,3 +4,7 @@ Index for my undergraduate thesis project applications. This repository was crea
 ### Initial
 ##### Tweepy demo: Understanding the Tweepy API
 * [Tweepy Boilerplate in Python for mining Tweets](https://github.com/jfmendez11/tweepy_demo)
+
+### Project
+##### Tweet miner
+* [Simple Python app to mine tweets from a given list of users and storing them in MongoDB](https://github.com/jfmendez11/tweet_miner)
