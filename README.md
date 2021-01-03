@@ -8,4 +8,7 @@ Index for my undergraduate thesis project applications. This repository was crea
 ### Project
 ##### Tweet miner
 * [Simple Python app to mine tweets from a given list of users, storing them in MongoDB and preparing the text for the LDA model](https://github.com/jfmendez11/tweet_miner)
+#### LDA Model
 * [LDA Model to get the Tweet topics](https://github.com/jfmendez11/LDA_model)
+#### Web Application
+* [Application to execute de LDA model and displaying the obtained data to the interested users](https://github.com/jfmendez11/thesis_web_app)
