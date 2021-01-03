@@ -7,4 +7,4 @@ Index for my undergraduate thesis project applications. This repository was crea
 
 ### Project
 ##### Tweet miner
-* [Simple Python app to mine tweets from a given list of users and storing them in MongoDB](https://github.com/jfmendez11/tweet_miner)
+* [Simple Python app to mine tweets from a given list of users, storing them in MongoDB and preparing the text for the LDA model](https://github.com/jfmendez11/tweet_miner)
